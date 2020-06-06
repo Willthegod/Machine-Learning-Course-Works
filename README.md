@@ -24,7 +24,6 @@ APS Failure data Classification using Tree-Based Methods
 
 Random Forest
 Handling Class Imbalance
-Logistic Model Tree by Weka
 
 Homework 5:
 Multi-class and Multi-Label Classification Using Support Vector Machines
