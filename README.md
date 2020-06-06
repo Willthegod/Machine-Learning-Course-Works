@@ -13,6 +13,7 @@ Feature extraction from time series:
 Logistic Regression with Recursive Feature Elimination
 L1-penalized logistic regression
 Naive Bayes’ classifier with Gaussian/Multinomial priors
+
 Homework 4:
 LASSO and Boosting for Regression on Community Crime Rate Prediction
 
@@ -24,6 +25,7 @@ APS Failure data Classification using Tree-Based Methods
 Random Forest
 Handling Class Imbalance
 Logistic Model Tree by Weka
+
 Homework 5:
 Multi-class and Multi-Label Classification Using Support Vector Machines
 Using one vs. all classifier to train a SVM for each of the labels using Gaussian kernels and L1-penalized
